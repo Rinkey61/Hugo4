@@ -43,6 +43,6 @@ Provided personalized academic support through private tuition, focusing on simp
 - Operating Systems: Linux, Windows  
 
 ## CONTACT ME
-- Phone: 01781864628  
-- Email: [tuskakhatun6@gmail.com] 
+- Phone: 01647267241  
+- Email: [meherunnesarinkey6143@gmail.com] 
 - Address: Savar, Dhaka, Bangladesh
