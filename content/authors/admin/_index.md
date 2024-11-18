@@ -72,11 +72,11 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: CPP
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Structure
         description: ''
         percent: 100
         icon: chart-bar
@@ -104,10 +104,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
