@@ -125,4 +125,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This is  Meherunnesa Rinkey, a passionate Computer Science and Engineering undergraduate at Jahangirnagar University. I thrive on solving problems, creating innovative solutions, and building intuitive web experiences. With a certification in Responsive Web Design from freeCodeCamp, I specialize in crafting dynamic, user-friendly, and mobile-first websites.
+
+My academic journey fuels my curiosity about technology, and I am constantly learning and experimenting with new tools and techniques. Beyond academics, I enjoy exploring creative design ideas and contributing to projects that make a difference. I’m eager to collaborate on meaningful tech-driven initiatives and bring my skills to the next level
